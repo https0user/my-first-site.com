@@ -1,0 +1,58 @@
+/* p {
+    color: blueviolet;
+    front-size: 15px;
+} */
+
+.my-class {
+    color:aqua;
+    font-weight: bold;
+}
+
+#special {
+    background-color: burlywood;
+    font-size: 18px;
+}
+
+ul li {
+    color: brown;
+}
+
+h1, h2, h3 {
+    color: salmon;
+    front-weight: bold;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: chocolate;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    color: darkblue;
+}
+
+.content {
+    max-width: 800px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    font-size:17px;
+    line-height: 1.5;
+    color: darkorange;
+}
+
+
+img {
+    width: 100%;
+}
